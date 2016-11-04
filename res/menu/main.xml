@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/light"
+        android:showAsAction="never"
+        android:title="Light Theme"/>
+    <item
+        android:id="@+id/dark"
+        android:showAsAction="never"
+        android:title="Dark Theme"/>
+
+</menu>
